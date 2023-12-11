@@ -3,10 +3,10 @@ Social Media Organic + Paid Strategy
 
 This file is the result of a project created during my education at Udcity.
 
-The file includes 2 powerpoint/slide presentations of the straegy for PYUR. 
+The file includes 2 powerpoint/slide presentations of the strategy for PYUR. 
 
-An organic straegy and a paid strategy. 
+An organic strategy and a paid strategy. 
 
 Installation
 
-Downlowd thr files to view them. 
+Download the files to view them. 
